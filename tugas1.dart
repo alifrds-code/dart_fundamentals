@@ -24,7 +24,7 @@ void main(){
         ];
 
     // map untuk nilai berpasangan
-    /// disini untuk menyimpan biodata
+    // disini untuk menyimpan biodata
     Map<String, dynamic> data = {
         "jenisKelamin": "Laki - laki",
         "agama": "Islam",
